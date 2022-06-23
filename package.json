@@ -1,9 +1,9 @@
 {
   "name": "typescript-nextjs-starter",
-  "description": "A TypeScript starter for Next.js that includes all you need to build amazing projects",
+  "description": "An Ethereum Marketplace",
   "version": "1.0.0",
   "private": true,
-  "author": "João Pedro Schmitz <hey@joaopedro.dev> (@jpedroschmitz)",
+  "author": "Stojan Peshov stojan@gmail.com",
   "license": "MIT",
   "keywords": [
     "nextjs",
@@ -40,6 +40,8 @@
     "@typescript-eslint/eslint-plugin": "5.27.0",
     "@typescript-eslint/parser": "5.27.0",
     "autoprefixer": "10.4.7",
+    "babel-polyfill": "6.26.0",
+    "babel-register": "6.26.0",
     "commitizen": "4.2.4",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "8.17.0",
@@ -52,6 +54,7 @@
     "postcss": "8.4.14",
     "prettier": "2.6.2",
     "tailwindcss": "3.1.4",
+    "truffle": "5.0.5",
     "typescript": "4.7.3"
   },
   "config": {
